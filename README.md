@@ -4,12 +4,17 @@
 
 - 生成AIを利用し会議アシスタントツールです
 - 文字起こしの生成、会議内容への質問が出来ます
-
+- 詳しい内容はこちらの記事を参照ください
+  - https://blog.cloudnative.co.jp/19749/
 
 ## 動作確認済の環境
 
 - macOS 13.5
 - Orbstack 0.16.0
+
+## 構成図
+
+![](https://blog.cloudnative.co.jp/wp-content/uploads/2023/08/mtg-ai-assistant-mtg-ai-assistant04-1920x921.png)
 
 ## セットアップ
 
